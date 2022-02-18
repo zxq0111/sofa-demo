@@ -11,6 +11,7 @@ public class Git_Test {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
         System.out.println("Hello, git!");
+        System.out.println("Hello, 杭州!");
 
     }
 }
