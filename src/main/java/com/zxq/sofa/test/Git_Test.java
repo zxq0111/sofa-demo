@@ -14,7 +14,6 @@ public class Git_Test {
         System.out.println("Hello, 杭州!");
         System.out.println("Hello, 美女！");
         System.out.println("master test!");
-
         System.out.println("hot-fix test!");
     }
 }
